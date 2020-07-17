@@ -2,7 +2,7 @@
 
 > $ npm audit
 
-![result for npm audit](npm-secapp101.png)
+![result for npm audit](npm-appsec101.png)
 
 > $ npm audit fix
 
